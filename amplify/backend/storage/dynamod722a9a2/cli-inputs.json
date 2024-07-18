@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynamod722a9a2",
+  "tableName": "exit",
+  "partitionKey": {
+    "fieldName": "exit",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
